@@ -1,0 +1,7 @@
+sv01-Nguyen Vinh-Quang-7.6-5.2
+sv02-Dao Tan-Tai-7.8-8.2
+sv03-Tran Trong-Nghia-9.6-8.5
+sv04-Nguyen Thanh-Danh-5-4.2
+sv05-Le Quang-Chien-9.2-8.1
+sv06-Nguyen Duc-Hieu-5.5-5.8
+sv07-Mai Tien-Anh-4.2-3.9
