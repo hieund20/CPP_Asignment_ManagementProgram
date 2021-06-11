@@ -1,0 +1,5 @@
+sp01#Nuoc Ngot#Chai#10000#15000
+sp02#Banh Quy#Hop#15000#20000
+sp03#Kem Socola#Cay#7500#12500
+sp04#Ngu Coc#Goi#3500#5000
+sp05#Sua Chua#Hop#5000#7000
